@@ -1,3 +1,5 @@
+!\[Femi Ige, Data Analyst](assets/banner.png)
+
 # Hi, I'm Femi Ige 👋
 
 **Data Analyst | Excel dashboards, data cleaning and statistical analysis.**
