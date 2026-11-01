@@ -1,3 +1,4 @@
+<img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/98073160-1090-4e32-b5b3-bd8dfe023e6e" />
 # Hi, I'm Femi Ige 👋
 
 **Data Analyst | Excel dashboards, data cleaning and statistical analysis.**
